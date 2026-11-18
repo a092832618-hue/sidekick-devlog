@@ -1,0 +1,8 @@
+# Only deliberately written public documentation belongs here.
+*.sqlite*
+*.db
+.env*
+__pycache__/
+runtime/
+data/
+*.log
